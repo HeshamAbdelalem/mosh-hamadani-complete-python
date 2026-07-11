@@ -10,3 +10,5 @@ for i in course.strip():
     print(i.upper())
 
 print("thon" not in course)
+
+# Falsy types : 0 , empty string , None, False
